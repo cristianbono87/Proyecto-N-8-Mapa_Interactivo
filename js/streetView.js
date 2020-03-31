@@ -10,7 +10,7 @@ streetViewModulo = (function () {
           pitch: 0
         }
       });
-      map.setStreetView(panorama);
+      mapa.setStreetView(panorama);
         /* Completar la función inicializar()  que crea un panorama
         en una posición y lo muestra en la página. */
     /*

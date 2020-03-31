@@ -11,7 +11,7 @@ lugaresModulo = (function () {
     var inputs= document.querySelectorAll('input[type="textbox"]');
 
     var options = {
-      types: ['establishment']
+      types: ['geocode']
     };
 
     var circle = new google.maps.Circle(
